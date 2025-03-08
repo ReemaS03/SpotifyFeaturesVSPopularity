@@ -1,7 +1,3 @@
-
-
-
-
 ideas:
 * does gender affect gpa
 * does gpa affect starting salary 
@@ -13,8 +9,15 @@ ideas:
 * how does gpa, number of internships, networking influence affect job offers and salaries (some regression)
 * does university ranking affect job offers (Is it worth it to go to a top university?)
 * likelihood that you get a job based on your stats (if you have a low gpa but high number of internships, what is your chances of getting a job?)
+* are students with `high Networking_Score` and `Internships_Completed` more likely to become entrepreneurs? 
 
 
 * linear regression on starting salary
+* linear regression on `Career_Satisfaction`
 * logistic regression on job offer, whether you get the job or not
 * predict years to promotion
+* correlation analysis to determine which features are most influential to career success (`Starting_Salary`, `Job_Offers`, `Years_to_Promotion`, `Career_Satisfaction`)
+* compare `Starting_Salary` and `Job_Offers` across the different `Fields_of_Study` to see what majors lead to better career outcomes through t-test/ANOVA
+* summary statistics of `High_School_GPA`, `SAT_Score`, `University_GPA`, and `Job_Offers`
+* analyze salary differences by university ranking, field of study, and internships through visualizations
+* analyze trends in Years_to_Promotion across different career levels through time series
