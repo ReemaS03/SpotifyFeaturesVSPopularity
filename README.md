@@ -21,3 +21,5 @@ ideas:
 * summary statistics of `High_School_GPA`, `SAT_Score`, `University_GPA`, and `Job_Offers`
 * analyze salary differences by university ranking, field of study, and internships through visualizations
 * analyze trends in Years_to_Promotion across different career levels through time series
+
+* since job offers is discrete, we can perform logistic regression. We can categorize the job offers as in 0 means no job offers, 1-4 means low job offers and 5+ could be high amount of job offers. We can perform logistic regression and see what features output to no job offers, low or high job offers.
