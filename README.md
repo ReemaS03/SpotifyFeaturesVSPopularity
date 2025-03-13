@@ -23,3 +23,18 @@ ideas:
 * analyze trends in Years_to_Promotion across different career levels through time series
 
 * since job offers is discrete, we can perform logistic regression. We can categorize the job offers as in 0 means no job offers, 1-4 means low job offers and 5+ could be high amount of job offers. We can perform logistic regression and see what features output to no job offers, low or high job offers.
+
+
+
+Ideas:
+* logistic regression less than 50 is not popular  0 and more than 50 is popular 1
+* train logistic model, split test train model, what is our accuracy 
+* 80 20 auc roc confusion matrix
+* classification
+
+* hypothesis test
+* parametric and nonparametric tests
+
+* svm, pca maybe
+
+* tests for completeness
