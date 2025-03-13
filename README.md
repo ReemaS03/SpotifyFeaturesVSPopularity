@@ -16,3 +16,17 @@ ideas:
 * do different time signatures have significantly different valence scores?
 * which features have the highest correlation with popularity?
 * what are the most important features for predicting popularity?
+
+
+Ideas:
+* logistic regression less than 50 is not popular  0 and more than 50 is popular 1
+* train logistic model, split test train model, what is our accuracy 
+* 80 20 auc roc confusion matrix
+* classification
+
+* hypothesis test
+* parametric and nonparametric tests
+
+* svm, pca
+
+* tests for completeness
